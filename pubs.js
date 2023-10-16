@@ -83,7 +83,7 @@ const PUBLICATIONS = [
       video: "https://www.bilibili.com/video/BV1bP411b7jh/?spm_id_from=333.999.0.0",
       code: "",
     },
-    badges: [11],
+    badges: [],
   },
   {
     title:
