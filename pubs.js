@@ -40,10 +40,10 @@ const PUBLICATIONS = [
       "3D Grasp Synthesis via Hand-Object Contact Constraint",
     authors:
       "Haoming Li, Xinzhuo Lin, Yang Zhou, Xiang Li, Yuchi Huo, Jiming Chen, Qi Ye",
-    image: ""https://lihaoming45.github.io/contact2grasp/resources/",
+    image: "https://lihaoming45.github.io/contact2grasp/resources/semantic_analysis2.jpg",
     conference: "IJCAI 2023",
     links: {
-      "project page": "https://lihaoming45.github.io/contact2grasp/semantic_analysis2.jpg",
+      "project page": "https://lihaoming45.github.io/contact2grasp/",
       arxiv: "Contact2Grasp: 3D Grasp Synthesis via Hand-Object Contact Constraint",
       pdf: "https://www.ijcai.org/proceedings/2023/0117.pdf",
       supp: "",
