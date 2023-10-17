@@ -47,7 +47,7 @@ const PUBLICATIONS = [
       arxiv: "Contact2Grasp: 3D Grasp Synthesis via Hand-Object Contact Constraint",
       pdf: "https://www.ijcai.org/proceedings/2023/0117.pdf",
       supp: "",
-      video: "",
+      video: "https://www.bilibili.com/video/BV1jC4y1G7d4/",
       code: "",
     },
     badges: ["CCF A"],
