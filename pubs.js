@@ -28,9 +28,9 @@ const PUBLICATIONS = [
     links: {
       "project page": "https://infzhou.github.io/FnFAttack/index.html",
       arxiv: "",
-      pdf: "",
+      pdf: "https://infzhou.github.io/folder/ZhouTao_F&F_Attack_ICCV2023_main_text+supp.pdf",
       supp: "",
-      video: "",
+      video: "https://infzhou.github.io/folder/Video_F&F_Attack_ICCV_2023.mp4",
       code: "",
     },
     badges: ["CCF A"],
@@ -158,7 +158,7 @@ const PUBLICATIONS = [
     title:
       "Efficient View Path Planning for Autonomous Implicit Reconstruction",
     authors:
-      "Jing Zeng, Yanxu Li, Yunlong Ran, Shuo Li, Fei Gao, Lincheng Li, Shibo He, Jiming chen, Qi Ye",
+      "Jing Zeng, Yanxu Li, Yunlong Ran, Shuo Li, Fei Gao, Lincheng Li, Shibo He, Jiming Chen, Qi Ye",
     image: "",
     conference: "ICRA 2023",
     links: {
@@ -220,7 +220,7 @@ const PUBLICATIONS = [
       paper:
         "https://infzhou.github.io/folder/Zhou_APPTracker_Improving_Tracking_Multiple_Objects_in_Low-Frame-Rate_Videos_MM_2022.pdf",
       arxiv: "",
-      pdf: "",
+      pdf: "https://infzhou.github.io/folder/Zhou_APPTracker_Improving_Tracking_Multiple_Objects_in_Low-Frame-Rate_Videos_MM_2022.pdf",
       supp: "",
       video: "https://youtu.be/Rzbda9vJofs",
       code: "",
