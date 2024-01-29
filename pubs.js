@@ -3,6 +3,23 @@
 const PUBLICATIONS = [
   {
     title:
+      "In-Hand 3D Object Reconstruction from a Monocular RGB Video",
+    authors:
+      "Shijian Jiang, Qi Ye, Rengan Xie, Yuchi Huo, Xiang Li, Yang Zhou, Jiming Chen",
+    image: "https://east-j.github.io/images/ihor.png",
+    conference: "AAAI 2024",
+    links: {
+      "project page": "https://east-j.github.io/ihor/",
+      arxiv: "",
+      pdf: "https://arxiv.org/abs/2312.16425",
+      supp: "",
+      video: "https://www.bilibili.com/video/BV1YC4y1Y7kN/?share_source=copy_web&vd_source=0f557346116df5af7b1a2da0eb4b9a9c",
+      code: "",
+    },
+    badges: ["CCF A"],
+  },
+  {
+    title:
       "Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields",
     authors:
       "Xiangyu Wang, Jingsen Zhu, Qi Ye, Yuchi Huo, Yunlong Ran, Zhihua Zhong, Jiming Chen",
