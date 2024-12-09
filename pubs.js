@@ -16,7 +16,6 @@ const PUBLICATIONS = [
       video: "https://www.bilibili.com/video/BV1YC4y1Y7kN/?share_source=copy_web&vd_source=0f557346116df5af7b1a2da0eb4b9a9c",
       code: "",
     },
-    badges: ["CCF A"],
   },
   {
     title:
@@ -33,7 +32,6 @@ const PUBLICATIONS = [
       video: "https://windingwind.github.io/seal-3d/static/videos/supp.mp4",
       code: "https://github.com/windingwind/seal-3d/",
     },
-    badges: ["CCF A"],
   },
   {
     title:
@@ -50,7 +48,6 @@ const PUBLICATIONS = [
       video: "https://infzhou.github.io/folder/Video_F&F_Attack_ICCV_2023.mp4",
       code: "",
     },
-    badges: ["CCF A"],
   },
   {
     title:
@@ -67,7 +64,7 @@ const PUBLICATIONS = [
       video: "https://www.bilibili.com/video/BV1jC4y1G7d4/",
       code: "",
     },
-    badges: ["CCF A"],
+    badges: [],
   },
   {
     title:
@@ -120,7 +117,7 @@ const PUBLICATIONS = [
       code: "https://github.com/jingsenzhu/i2-sdf",
       data: "https://mega.nz/folder/jdhDnTqL#Ija678SU2Va_JJOiwqmdEg",
     },
-    badges: ["CCF A"],
+    badges: [],
   },
   {
     title: "Metadata-Based RAW Reconstruction via Implicit Neural Functions",
@@ -139,7 +136,7 @@ const PUBLICATIONS = [
       "colab demo":
         "https://colab.research.google.com/drive/1KFNFQgLcQ7HwIFn7fMFh4DiwZ0tb4hyv?usp=sharing",
     },
-    badges: ["CCF A"],
+    badges: [],
   },
   {
     title:
