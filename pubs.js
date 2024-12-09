@@ -5,7 +5,7 @@ const PUBLICATIONS = [
     title:
       "In-Hand 3D Object Reconstruction from a Monocular RGB Video",
     authors:
-      "Shijian Jiang, Qi Ye, Rengan Xie, Yuchi Huo, Xiang Li, Yang Zhou, Jiming Chen",
+      "Shijian Jiang, Qi Ye*, Rengan Xie, Yuchi Huo, Xiang Li, Yang Zhou, Jiming Chen",
     image: "https://east-j.github.io/images/ihor.png",
     conference: "AAAI 2024",
     links: {
@@ -37,7 +37,7 @@ const PUBLICATIONS = [
     title:
       "F&F Attack: Adversarial Attack against Multiple Object Trackers by Inducing False Negatives and False Positives",
     authors:
-      "Tao Zhou, Wenhan Luo, Qi Ye, Kaihao Zhang, Zhiguo Shi, Jiming Chen",
+      "Tao Zhou, Qi Ye*,Wenhan Luo,  Kaihao Zhang, Zhiguo Shi, Jiming Chen",
     image: "https://infzhou.github.io/FnFAttack/resources/Main_Figure.png",
     conference: "ICCV 2023",
     links: {
@@ -53,7 +53,7 @@ const PUBLICATIONS = [
     title:
       "3D Grasp Synthesis via Hand-Object Contact Constraint",
     authors:
-      "Haoming Li, Xinzhuo Lin, Yang Zhou, Xiang Li, Yuchi Huo, Jiming Chen, Qi Ye",
+      "Haoming Li, Xinzhuo Lin, Yang Zhou, Xiang Li, Yuchi Huo, Jiming Chen, Qi Ye*",
     image: "https://lihaoming45.github.io/contact2grasp/resources/semantic_analysis2.jpg",
     conference: "IJCAI 2023",
     links: {
@@ -69,7 +69,7 @@ const PUBLICATIONS = [
   {
     title:
       "InterTracker: Discovering and Tracking General Objects Interacting with Hands in the Wild",
-    authors: "Yanyan Shao, Qi Ye, Wenhan Luo, Kaihao Zhang, Jiming Chen",
+    authors: "Yanyan Shao, Qi Ye*, Wenhan Luo, Kaihao Zhang, Jiming Chen",
     image: "",
     conference: "IROS 2023",
     links: {
@@ -86,7 +86,7 @@ const PUBLICATIONS = [
     title:
       "DexRepNet: Learning Dexterous Robotic Grasping Network with Geometric and Spatial Hand-Object Representation",
     authors:
-      "Qingtao Liu, Yu Cui, Qi Ye, Zhengnan Sun, Haoming Li, Gaofeng Li, Lin Shao, Jiming Chen",
+      "Qingtao Liu, Yu Cui, Qi Ye*, Zhengnan Sun, Haoming Li, Gaofeng Li, Lin Shao, Jiming Chen",
     image: "https://lqts.github.io/DexRepNet/resources/examples.png",
     conference: "IROS 2023",
     links: {
@@ -140,22 +140,9 @@ const PUBLICATIONS = [
   },
   {
     title:
-      "Implementation and Optimization of Grasping Learning with Dual-modal Soft Gripper",
-    authors:
-      "Lei Zhao ,Haoyue Liu ,Feihan Li ,Xingyu Ding ,Yuhao Sun ,Fuchun Sun , Jianhua Shan ,Qi Ye, Lincheng Li , Bin Fang",
-    image: "",
-    conference: "ICRA 2023",
-    links: {
-      "project page": "",
-      paper: "https://ieeexplore.ieee.org/abstract/document/10161249",
-    },
-    badges: [],
-  },
-  {
-    title:
       "NeurAR: Neural Uncertainty for Autonomous 3D Reconstruction with Implicit Neural Representations",
     authors:
-      "Yunlong Ran, Jing Zeng, Shibo He, Lincheng Li, Yingfeng Chen, Gimhee Lee, Jiming Chen, Qi Ye",
+      "Yunlong Ran, Jing Zeng, Shibo He, Lincheng Li, Yingfeng Chen, Gimhee Lee, Jiming Chen, Qi Ye*",
     image: "",
     conference: "ICRA 2023",
     links: {
@@ -172,7 +159,7 @@ const PUBLICATIONS = [
     title:
       "Efficient View Path Planning for Autonomous Implicit Reconstruction",
     authors:
-      "Jing Zeng, Yanxu Li, Yunlong Ran, Shuo Li, Fei Gao, Lincheng Li, Shibo He, Jiming Chen, Qi Ye",
+      "Jing Zeng, Yanxu Li, Yunlong Ran, Shuo Li, Fei Gao, Lincheng Li, Shibo He, Jiming Chen, Qi Ye*",
     image: "",
     conference: "ICRA 2023",
     links: {
@@ -190,7 +177,7 @@ const PUBLICATIONS = [
     title:
       "ImmFusion: Robust mmWave-RGB Fusion for 3D Human Body Reconstruction in All Weather Conditions",
     authors:
-      "Anjun Chen, Xiangyu Wang, Kun Shi, Shaohao Zhu, Bin Fang, Yingfeng Chen, Jiming Chen, Yuchi Huo, Qi Ye",
+      "Anjun Chen, Xiangyu Wang, Kun Shi, Shaohao Zhu, Bin Fang, Yingfeng Chen, Jiming Chen, Yuchi Huo, Qi Ye*",
     image: "https://chen3110.github.io/ImmFusion/resources/framework.png",
     conference: "ICRA 2023",
     links: {
@@ -208,7 +195,7 @@ const PUBLICATIONS = [
     title:
       "mmBody Benchmark: 3D Body Reconstruction Dataset and Analysis for Millimeter Wave Radar",
     authors:
-      "Anjun Chen, Xiangyu Wang, Shaohao Zhu, Yanxu Li, Jiming Chen, Qi Ye",
+      "Anjun Chen, Xiangyu Wang, Shaohao Zhu, Yanxu Li, Jiming Chen, Qi Ye*",
     image: "https://chen3110.github.io/mmbody/resources/good_case.png",
     conference: "ACM MM 2022",
     links: {
@@ -226,7 +213,7 @@ const PUBLICATIONS = [
   {
     title:
       "APPTracker: Improving Tracking Multiple Objects in Low-Frame-Rate Videos",
-    authors: "Tao Zhou, Wenhan Luo, Zhiguo Shi, Jiming Chen, Qi Ye",
+    authors: "Tao Zhou, Wenhan Luo, Zhiguo Shi, Jiming Chen, Qi Ye*",
     image: "https://infzhou.github.io/appTracker/resources/Fig2_pipeline.png",
     conference: "ACM MM 2022",
     links: {
@@ -367,7 +354,8 @@ const PUBLICATIONS = [
   },
 ];
 
-const HIGHLIGHT_NAME = "qi ye";
+const HIGHLIGHT_NAME1 = "qi ye";
+const HIGHLIGHT_NAME2 = "qi ye*";
 
 // Do not touch the code below
 
@@ -429,7 +417,7 @@ function createAuthorElement(authors) {
   const frag = document.createDocumentFragment();
   const elements = authors.split(/[,;]/g).map((author) => {
     const authorText = author.trim();
-    if (authorText.toLowerCase() === HIGHLIGHT_NAME) {
+    if (authorText.toLowerCase() === HIGHLIGHT_NAME1 | authorText.toLowerCase() === HIGHLIGHT_NAME2 ) {
       const authorElem = document.createElement("strong");
       authorElem.textContent = authorText;
       return authorElem;
