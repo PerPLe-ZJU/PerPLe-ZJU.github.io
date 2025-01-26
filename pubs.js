@@ -5,7 +5,7 @@ const PUBLICATIONS = [
     title:
       "APPTracker+: Displacement Uncertainty for Occlusion Handling in Low-Frame-Rate Multiple Object Tracking",
     authors:
-      "Zhou, Tao; Ye, Qi*; Luo, Wenhan; Ran, Haizhou; Shi, Zhiguo; Chen, Jiming; ",
+      "Zhou, Tao; Ye, Qi*; Luo, Wenhan; Ran, Haizhou; Shi, Zhiguo; Chen, Jiming",
     image: "images/pub/apptracker++.jpg",
     conference: "ICRA 2024",
     links: {
@@ -20,7 +20,7 @@ const PUBLICATIONS = [
     title:
       "TPGP: Temporal-Parametric Optimization with Deep Grasp Prior for Dexterous Motion Planning",
     authors:
-      "Li, Haoming; Ye, Qi; Huo, Yuchi; Liu, Qingtao; Jiang, Shijian; Zhou, Tao; Li, Xiang; Zhou, Yang; Chen, Jiming ",
+      "Li, Haoming; Ye, Qi*; Huo, Yuchi; Liu, Qingtao; Jiang, Shijian; Zhou, Tao; Li, Xiang; Zhou, Yang; Chen, Jiming ",
     image: "images/pub/tpgp.jpg",
     conference: "ICRA 2024",
     links: {
@@ -35,7 +35,7 @@ const PUBLICATIONS = [
     title:
       "CAMInterHand: Cooperative Attention for Multi-View Interactive Hand Pose and Mesh Reconstruction",
     authors:
-      "Han, Guwen; Ye, Qi; Chen, Anjun; Chen, Jiming;   ",
+      "Han, Guwen; Ye, Qi*; Chen, Anjun; Chen, Jiming",
     image: "images/pub/icra24-hand.jpg",
     conference: "ICRA 2024",
     links: {
@@ -50,8 +50,8 @@ const PUBLICATIONS = [
     title:
       "Context-Aware Integration of Language and Visual References for Natural Language Tracking",
     authors:
-      "Shao, Yanyan; He, Shuting; Ye, Qi*; Feng, Yuchao; Luo, Wenhan; Chen, Jiming;  ",
-    image: "images/pub/cvpr24-tracjer.jpg",
+      "Shao, Yanyan; He, Shuting; Ye, Qi*; Feng, Yuchao; Luo, Wenhan; Chen, Jiming",
+    image: "images/pub/cvpr24-tracker.jpg",
     conference: "CVPR 2024",
     links: {
       "project page": "",
@@ -65,7 +65,7 @@ const PUBLICATIONS = [
     title:
       "Autonomous Implicit Indoor Scene Reconstruction with Frontier Exploration",
     authors:
-      "Zeng, Jing; Li, Yanxu; Sun, Jiahao; Ye, Qi; Ran, Yunlong; Chen, Jiming;  ",
+      "Zeng, Jing; Li, Yanxu; Sun, Jiahao; Ye, Qi; Ran, Yunlong; Chen, Jiming",
     image: "images/pub/icra24-auto.jpg",
     conference: "ICRA 2024",
     links: {
@@ -80,8 +80,8 @@ const PUBLICATIONS = [
     title:
       "InterRep: A Visual Interaction Representation for Robotic Grasping",
     authors:
-      "Cui, Yu; Ye, Qi; Liu, Qingtao; Chen, Anjun; Li, Gaofeng; Chen, Jiming;  ",
-    image: "images/pub/icra24_interrep.jpg",
+      "Cui, Yu; Ye, Qi*; Liu, Qingtao; Chen, Anjun; Li, Gaofeng; Chen, Jiming",
+    image: "images/pub/icra24-interrep.jpg",
     conference: "ICRA 2024",
     links: {
       "project page": "https://cuiyu0627.github.io/interrep.github.io/",
@@ -95,8 +95,8 @@ const PUBLICATIONS = [
     title:
       "Masked Visual-Tactile Pre-trainig for Robot Manipuluation",
     authors:
-      "Liu, Qingtao; Ye, Qi*; Sun, Zhengnan; Cui, Yu; Li, Gaofeng; Chen, Jiming; ",
-    image: "images/pub/icra24_mvtp.jpg",
+      "Liu, Qingtao; Ye, Qi*; Sun, Zhengnan; Cui, Yu; Li, Gaofeng; Chen, Jiming",
+    image: "images/pub/icra24-mvtp.jpg",
     conference: "ICRA 2024",
     links: {
       "project page": "https://lqts.github.io/M2VTP/",
@@ -142,7 +142,7 @@ const PUBLICATIONS = [
       "F&F Attack: Adversarial Attack against Multiple Object Trackers by Inducing False Negatives and False Positives",
     authors:
       "Tao Zhou, Qi Ye*,Wenhan Luo,  Kaihao Zhang, Zhiguo Shi, Jiming Chen",
-    image: "https://infzhou.github.io/FnFAttack/resources/Main_Figure.png",
+    image: "images/pub/iccv23-attack.jpg",
     conference: "ICCV 2023",
     links: {
       "project page": "https://infzhou.github.io/FnFAttack/index.html",
@@ -174,10 +174,10 @@ const PUBLICATIONS = [
     title:
       "InterTracker: Discovering and Tracking General Objects Interacting with Hands in the Wild",
     authors: "Yanyan Shao, Qi Ye*, Wenhan Luo, Kaihao Zhang, Jiming Chen",
-    image: "",
+    image: "images/pub/iros23-intertracker.jpg",
     conference: "IROS 2023",
     links: {
-      "project page": "images/pub/iros23-intertracker.jpg",
+      "project page": "",
       arxiv: "http://arxiv.org/abs/2308.03061",
       pdf: "http://arxiv.org/pdf/2308.03061",
       supp: "",
@@ -191,7 +191,7 @@ const PUBLICATIONS = [
       "DexRepNet: Learning Dexterous Robotic Grasping Network with Geometric and Spatial Hand-Object Representation",
     authors:
       "Qingtao Liu, Yu Cui, Qi Ye*, Zhengnan Sun, Haoming Li, Gaofeng Li, Lin Shao, Jiming Chen",
-    image: "https://lqts.github.io/DexRepNet/resources/examples.png",
+    image: "images/pub/iros23-dexrep.jpg",
     conference: "IROS 2023",
     links: {
       "project page": "https://lqts.github.io/DexRepNet/",
@@ -300,7 +300,7 @@ const PUBLICATIONS = [
       "mmBody Benchmark: 3D Body Reconstruction Dataset and Analysis for Millimeter Wave Radar",
     authors:
       "Anjun Chen, Xiangyu Wang, Shaohao Zhu, Yanxu Li, Jiming Chen, Qi Ye*",
-    image: "https://chen3110.github.io/mmbody/resources/good_case.png",
+    image: "images/pub/mm23-mmbody.jpg",
     conference: "ACM MM 2022",
     links: {
       "project page": "https://chen3110.github.io/mmbody/",
