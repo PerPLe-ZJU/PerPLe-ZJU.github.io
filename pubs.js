@@ -3,6 +3,111 @@
 const PUBLICATIONS = [
   {
     title:
+      "APPTracker+: Displacement Uncertainty for Occlusion Handling in Low-Frame-Rate Multiple Object Tracking",
+    authors:
+      "Zhou, Tao; Ye, Qi*; Luo, Wenhan; Ran, Haizhou; Shi, Zhiguo; Chen, Jiming; ",
+    image: "images/pub/apptracker++.jpg",
+    conference: "ICRA 2024",
+    links: {
+      "project page": "",
+      arxiv: "",
+      pdf: "https://infzhou.github.io/folder/APPTracker_Plus_Displacement_Uncertainty_for_Occlusion_Handling_in_Low-Frame-Rate_Multiple_Object_Tracking.pdf",
+      supp: "",
+      video: "",
+    },
+  },   
+  {
+    title:
+      "TPGP: Temporal-Parametric Optimization with Deep Grasp Prior for Dexterous Motion Planning",
+    authors:
+      "Li, Haoming; Ye, Qi; Huo, Yuchi; Liu, Qingtao; Jiang, Shijian; Zhou, Tao; Li, Xiang; Zhou, Yang; Chen, Jiming ",
+    image: "images/pub/tpgp.jpg",
+    conference: "ICRA 2024",
+    links: {
+      "project page": "",
+      arxiv: "",
+      pdf: "https://ieeexplore.ieee.org/document/10610408",
+      supp: "",
+      video: "",
+    },
+  },   
+  {
+    title:
+      "CAMInterHand: Cooperative Attention for Multi-View Interactive Hand Pose and Mesh Reconstruction",
+    authors:
+      "Han, Guwen; Ye, Qi; Chen, Anjun; Chen, Jiming;   ",
+    image: "images/pub/icra24-hand.jpg",
+    conference: "ICRA 2024",
+    links: {
+      "project page": "",
+      arxiv: "",
+      pdf: "https://ieeexplore.ieee.org/document/10610469",
+      supp: "",
+      video: "",
+    },
+  },  
+  {
+    title:
+      "Context-Aware Integration of Language and Visual References for Natural Language Tracking",
+    authors:
+      "Shao, Yanyan; He, Shuting; Ye, Qi*; Feng, Yuchao; Luo, Wenhan; Chen, Jiming;  ",
+    image: "images/pub/cvpr24-tracjer.jpg",
+    conference: "CVPR 2024",
+    links: {
+      "project page": "",
+      arxiv: "https://arxiv.org/abs/2403.19975",
+      pdf: "https://openaccess.thecvf.com/content/CVPR2024/papers/Shao_Context-Aware_Integration_of_Language_and_Visual_References_for_Natural_Language_CVPR_2024_paper.pdf",
+      supp: "",
+      video: "",
+    },
+  },
+  {
+    title:
+      "Autonomous Implicit Indoor Scene Reconstruction with Frontier Exploration",
+    authors:
+      "Zeng, Jing; Li, Yanxu; Sun, Jiahao; Ye, Qi; Ran, Yunlong; Chen, Jiming;  ",
+    image: "images/pub/icra24-auto.jpg",
+    conference: "ICRA 2024",
+    links: {
+      "project page": "https://small-zeng.github.io/AIISRFE/",
+      arxiv: "",
+      pdf: "https://ieeexplore.ieee.org/document/10611382",
+      supp: "",
+      video: "",
+    },
+  },  
+  {
+    title:
+      "InterRep: A Visual Interaction Representation for Robotic Grasping",
+    authors:
+      "Cui, Yu; Ye, Qi; Liu, Qingtao; Chen, Anjun; Li, Gaofeng; Chen, Jiming;  ",
+    image: "images/pub/icra24_interrep.jpg",
+    conference: "ICRA 2024",
+    links: {
+      "project page": "https://cuiyu0627.github.io/interrep.github.io/",
+      arxiv: "",
+      pdf: "https://ieeexplore.ieee.org/abstract/document/10610870",
+      supp: "",
+      video: "https://www.youtube.com/watch?v=P3JGWpPppK8",
+    },
+  },  
+  {
+    title:
+      "Masked Visual-Tactile Pre-trainig for Robot Manipuluation",
+    authors:
+      "Liu, Qingtao; Ye, Qi*; Sun, Zhengnan; Cui, Yu; Li, Gaofeng; Chen, Jiming; ",
+    image: "images/pub/icra24_mvtp.jpg",
+    conference: "ICRA 2024",
+    links: {
+      "project page": "https://lqts.github.io/M2VTP/",
+      arxiv: "",
+      pdf: "https://ieeexplore.ieee.org/document/10610933",
+      supp: "",
+      video: "https://www.bilibili.com/video/BV1pqkyYyEnp/?spm_id_from=333.1387.homepage.video_card.click",
+    },
+  },
+  {
+    title:
       "In-Hand 3D Object Reconstruction from a Monocular RGB Video",
     authors:
       "Shijian Jiang, Qi Ye*, Rengan Xie, Yuchi Huo, Xiang Li, Yang Zhou, Jiming Chen",
@@ -14,7 +119,6 @@ const PUBLICATIONS = [
       pdf: "https://arxiv.org/abs/2312.16425",
       supp: "",
       video: "https://www.bilibili.com/video/BV1YC4y1Y7kN/?share_source=copy_web&vd_source=0f557346116df5af7b1a2da0eb4b9a9c",
-      code: "",
     },
   },
   {
@@ -73,7 +177,7 @@ const PUBLICATIONS = [
     image: "",
     conference: "IROS 2023",
     links: {
-      "project page": "",
+      "project page": "images/pub/iros23-intertracker.jpg",
       arxiv: "http://arxiv.org/abs/2308.03061",
       pdf: "http://arxiv.org/pdf/2308.03061",
       supp: "",
@@ -143,7 +247,7 @@ const PUBLICATIONS = [
       "NeurAR: Neural Uncertainty for Autonomous 3D Reconstruction with Implicit Neural Representations",
     authors:
       "Yunlong Ran, Jing Zeng, Shibo He, Lincheng Li, Yingfeng Chen, Gimhee Lee, Jiming Chen, Qi Ye*",
-    image: "",
+    image: "images/pub/neurar.jpg",
     conference: "ICRA 2023",
     links: {
       "project page": "",
